@@ -1,0 +1,13 @@
+C:\Users\volks\source\repos\FP1Lesson5\bin\Debug\netcoreapp3.1\FP1Lesson5.exe
+C:\Users\volks\source\repos\FP1Lesson5\bin\Debug\netcoreapp3.1\FP1Lesson5.deps.json
+C:\Users\volks\source\repos\FP1Lesson5\bin\Debug\netcoreapp3.1\FP1Lesson5.runtimeconfig.json
+C:\Users\volks\source\repos\FP1Lesson5\bin\Debug\netcoreapp3.1\FP1Lesson5.runtimeconfig.dev.json
+C:\Users\volks\source\repos\FP1Lesson5\bin\Debug\netcoreapp3.1\FP1Lesson5.dll
+C:\Users\volks\source\repos\FP1Lesson5\bin\Debug\netcoreapp3.1\FP1Lesson5.pdb
+C:\Users\volks\source\repos\FP1Lesson5\obj\Debug\netcoreapp3.1\FP1Lesson5.csprojAssemblyReference.cache
+C:\Users\volks\source\repos\FP1Lesson5\obj\Debug\netcoreapp3.1\FP1Lesson5.AssemblyInfoInputs.cache
+C:\Users\volks\source\repos\FP1Lesson5\obj\Debug\netcoreapp3.1\FP1Lesson5.AssemblyInfo.cs
+C:\Users\volks\source\repos\FP1Lesson5\obj\Debug\netcoreapp3.1\FP1Lesson5.csproj.CoreCompileInputs.cache
+C:\Users\volks\source\repos\FP1Lesson5\obj\Debug\netcoreapp3.1\FP1Lesson5.dll
+C:\Users\volks\source\repos\FP1Lesson5\obj\Debug\netcoreapp3.1\FP1Lesson5.pdb
+C:\Users\volks\source\repos\FP1Lesson5\obj\Debug\netcoreapp3.1\FP1Lesson5.genruntimeconfig.cache
